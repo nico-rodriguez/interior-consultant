@@ -16,19 +16,21 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b3d4d09c-22de-42cd-945d-d0d16cc09188/deploy-status)](https://app.netlify.com/sites/interior-consultant-774606/deploys)
+
 ## Overview
 
 Visit [https://interior-consultant-774606.netlify.app/](https://interior-consultant-774606.netlify.app/)
 
 Desktop
 
-![screenshot](./images/screenshot-desktop.png)
+![screenshot](./doc-images/images/screenshot-desktop.png)
 
 Mobile
 
-![screenshot](./images/screenshot-mobile-1.png)
+![screenshot](./doc-images/images/screenshot-mobile-1.png)
 
-![screenshot](./images/screenshot-mobile-2.png)
+![screenshot](./doc-images/images/screenshot-mobile-2.png)
 
 ## Features
 
